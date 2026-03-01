@@ -3,17 +3,6 @@ I’m a Mechatronics Engineering + Business student who’s interested in produc
 
 What draws me to PM is simple: it’s one of the highest-leverage ways to create impact. A great product manager ensures the team is solving the **right problem**, in the **right way**, at the **right time**.
 
-I think about the PM role in three parts:
-
-* **Shape & build** – deeply understand the customer, define the problem, and design the right solution.
-* **Ship** – execute, iterate, and get real value into users’ hands.
-* **Align** – create clarity around vision, strategy, and priorities so teams move in the same direction.
-
-What makes this personal for me is a strong customer-first mindset. I follow a “start with the customer and work backwards” approach, inspired by Amazon’s customer obsession principle. I enjoy taking messy feedback, conflicting constraints, or uncertainty — and turning it into clear direction that a cross-functional team can execute on.
-
-I’m especially motivated by building products that genuinely improve someone’s life, not just to add features.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/savargupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savar-gupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SmartCompounder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savar.gupta1922@gmail.com) 
 
