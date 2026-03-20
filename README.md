@@ -1,5 +1,5 @@
 ## About Me:
-I’m a Mechatronics Engineering + Business student who’s interested in tech entrepreneurship and product management. Currently building, learning, and investing... 
+I’m a Mechatronics Engineering + Business student who’s interested in tech & AI. Currently building, learning, and investing... 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/savargupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savar-gupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SmartCompounder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savar.gupta1922@gmail.com) 
