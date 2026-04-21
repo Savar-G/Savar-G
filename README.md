@@ -3,6 +3,7 @@ I'm a Mechatronics Engineering + Business Double-Degree student at SFU - lost so
 
 ### What I'm currently working on:
 - 🚀 Unify Social — a mobile app for newcomers in Canada, live on the Apple app store 
+- 👓 Lore - iOS companion app for Meta Ray-Ban smart glasses. *"Life's too boring — make the mundane feel alive."*
 - 🏥 HealthOS — a full-stack personal health dashboard ingesting 18K+ workout sets, 800+ days of Oura biometrics, and 1,600+ weight entries into a single interactive Next.js app 
 - 🤖 Learning and building with AI tools like Claude and Codex 
 
