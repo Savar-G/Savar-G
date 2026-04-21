@@ -8,7 +8,7 @@ I'm a Mechatronics Engineering + Business Double-Degree student at SFU - lost so
 - 🤖 Learning and building with AI tools like Claude and Codex.
 
 ### Interested in: 
-AI · Product Management · Hardware · Robotics · Startups
+AI · Product Management · Hardware · Robotics · Software · Finance (Investing) · Startups
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/savargupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savar-gupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SmartCompounder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savar.gupta1922@gmail.com) 
