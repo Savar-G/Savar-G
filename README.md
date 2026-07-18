@@ -6,7 +6,7 @@ I'm a Mechatronics Engineering + Business Double-Degree student at SFU - lost so
 - 🤖 Embedr - Building the AI Embedded Engineer for firmware, schematics, and PCBs
 - 🏥 HealthOS - a full-stack personal health dashboard ingesting 18K+ workout sets, 800+ days of Oura biometrics, and 1,600+ weight entries into a single interactive Next.js app.
 - 📝 [Taskline](https://community.obsidian.md/plugins/vault-tasks) - Obsidian Community Plugin that automates task capture from meetings, chats, and more 
-- 🤖 Learning and building with AI tools like Claude and Codex.
+- 📖 Learning and building with AI tools like Claude and Codex.
 
 ### Interested in: 
 AI · Product Management · Hardware · Robotics · Software · Finance (Investing) · Startups
