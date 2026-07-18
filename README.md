@@ -5,6 +5,7 @@ I'm a Mechatronics Engineering + Business Double-Degree student at SFU - lost so
 - 🚀 [Unify Social](https://apps.apple.com/us/app/unify-newcomer-support/id6754875762) - a mobile app providing community, personalized checklists, AI-powered guidance, and educational content to support newcomers in Canada through their settlement journey. Live on the Apple App Store with 200+ users.
 - 🤖 Embedr - Building the AI Embedded Engineer for firmware, schematics, and PCBs
 - 🏥 HealthOS - a full-stack personal health dashboard ingesting 18K+ workout sets, 800+ days of Oura biometrics, and 1,600+ weight entries into a single interactive Next.js app.
+- 📝 [Taskline](https://community.obsidian.md/plugins/vault-tasks) - Obsidian Community Plugin that automates task capture from meetings, chats, and more 
 - 🤖 Learning and building with AI tools like Claude and Codex.
 
 ### Interested in: 
